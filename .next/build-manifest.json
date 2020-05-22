@@ -1,20 +1,20 @@
 {
   "devFiles": [],
   "lowPriorityFiles": [
-    "static/9BvXjTdi86MMlWHFgCc3U/_buildManifest.js",
-    "static/9BvXjTdi86MMlWHFgCc3U/_ssgManifest.js"
+    "static/73RLOnt3Gv_IF4ftOHCdF/_buildManifest.js",
+    "static/73RLOnt3Gv_IF4ftOHCdF/_ssgManifest.js"
   ],
   "pages": {
     "/": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.0f140d5eb2070c7e423d.js",
-      "static/chunks/1fa6e01e8648f9111b2fa50f60a4abbf53eab916.bc456eb0f4b31d3ef2ac.js",
+      "static/chunks/d20f8ee52833434c1a2344e6255f6a0fc43fb35f.bc456eb0f4b31d3ef2ac.js",
       "static/runtime/main-ff956ef578f973741b0f.js"
     ],
     "/_app": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.0f140d5eb2070c7e423d.js",
-      "static/chunks/4696ce56341265b39357b0028f72c32fc588e25c.69370f7d368f53bc62e1.js",
+      "static/chunks/932d31e4f4aa3d9e10f1404b7f471b53938f70a1.69370f7d368f53bc62e1.js",
       "static/runtime/main-ff956ef578f973741b0f.js"
     ],
     "/_error": [
@@ -28,19 +28,19 @@
     "/about": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.0f140d5eb2070c7e423d.js",
-      "static/chunks/1fa6e01e8648f9111b2fa50f60a4abbf53eab916.bc456eb0f4b31d3ef2ac.js",
+      "static/chunks/d20f8ee52833434c1a2344e6255f6a0fc43fb35f.bc456eb0f4b31d3ef2ac.js",
       "static/runtime/main-ff956ef578f973741b0f.js"
     ],
     "/index": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.0f140d5eb2070c7e423d.js",
-      "static/chunks/1fa6e01e8648f9111b2fa50f60a4abbf53eab916.bc456eb0f4b31d3ef2ac.js",
+      "static/chunks/d20f8ee52833434c1a2344e6255f6a0fc43fb35f.bc456eb0f4b31d3ef2ac.js",
       "static/runtime/main-ff956ef578f973741b0f.js"
     ],
     "/learn": [
       "static/runtime/webpack-b65cab0b00afd201cbda.js",
       "static/chunks/framework.0f140d5eb2070c7e423d.js",
-      "static/chunks/1fa6e01e8648f9111b2fa50f60a4abbf53eab916.bc456eb0f4b31d3ef2ac.js",
+      "static/chunks/d20f8ee52833434c1a2344e6255f6a0fc43fb35f.bc456eb0f4b31d3ef2ac.js",
       "static/runtime/main-ff956ef578f973741b0f.js"
     ]
   }
