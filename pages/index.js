@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
             
          <main>
-         <img src="/rico_avatar.jpg" border="1" alt="rico the pug"></img>
+         <img src="/rico_avatar.jpg" border="1" alt="rico the pug avatar"></img>
          <p>
            
          </p>
