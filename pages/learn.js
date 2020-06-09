@@ -18,15 +18,10 @@ export default function Home() {
         </h1>
 
      <p className="description" align="center">
-        <p>Rico absolutely loves to eat. Some of his favorite snacks include lettuce, pizza, baby carrots, slices of deli turkey and of course BACON! His daily kibble is Blue Buffalo bra.
-
-Rico’s diet was very easy to figure out after clearing up many of his allergies. The Blue Buffalo brand of food really was a great help in determining how to keep him fed and happy.
+Rico’s diet was very easy to figure out after clearing up many of his allergies. The Blue Buffalo brand of food really was a great help in determining how to keep him fed and happy.  Rico eats chicken flavored food!
         </p>
      
         
-
-</p>
-
 
 <p></p>
 

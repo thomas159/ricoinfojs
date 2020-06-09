@@ -4,5 +4,5 @@ This is a basic website about my dog that is used for deployment to different st
 
 Start locally with `npn dev start` 
 
-Export pages using `npx next build && npm next export` and find your static content in the `out` directory.
+Export pages using `npx next build && npx next export` and find your static content in the `out` directory.
 
