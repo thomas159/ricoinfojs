@@ -11,7 +11,7 @@ export default function Home() {
          <main>
          <img src="/rico_avatar.jpg" border="1" alt="rico the pug avatar"></img>
          <p>
-           
+           sdssds
          </p>
         <h1 className="title">
           Welcome to the Rico the Pug Information center
